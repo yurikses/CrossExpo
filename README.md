@@ -80,9 +80,7 @@ Everything runs entirely in the browser — no servers, no API keys.
 
 ## 🚀 Демо / Live Demo
 
-👉 **[https://your-username.github.io/CrossExpo/](https://your-username.github.io/CrossExpo/)**
-
-> Замените `your-username` на ваш GitHub username после деплоя.
+👉 **[https://yurikses.github.io/CrossExpo/](https://yurikses.github.io/CrossExpo/)**
 
 ---
 
@@ -142,7 +140,7 @@ CrossExpo/
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/your-username/CrossExpo.git
+git clone https://github.com/yurikses/CrossExpo.git
 cd CrossExpo
 
 # Установить зависимости
@@ -185,7 +183,7 @@ npm run preview
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/your-username/CrossExpo.git
+   git remote add origin https://github.com/yurikses/CrossExpo.git
    git push -u origin main
    ```
 3. Перейдите в **Settings → Pages** репозитория
